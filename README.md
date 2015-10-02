@@ -1,4 +1,4 @@
-PHP PathPattern was created as a helper method to move the the folder structure repeating managing code to a separate abstract library.
+PHP PathPattern was created as a helper method to move the folder structure managing code to a separate abstract library.
 You might find this helpful, especially if you 're using a date folder structure for your assets like me.
 
 You can set up a folder structure pattern or a base path and call the function that returns the path. If the requested path doesn't exist it will create it.
